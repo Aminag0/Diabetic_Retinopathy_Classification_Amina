@@ -1,0 +1,11 @@
+torch
+torchvision
+efficientnet_pytorch
+matplotlib
+scikit-learn
+tqdm
+pytorch-grad-cam
+numpy
+pandas
+opencv-python
+jupyter
